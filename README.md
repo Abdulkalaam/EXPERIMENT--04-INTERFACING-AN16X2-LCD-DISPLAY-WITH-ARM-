@@ -190,7 +190,8 @@ Lcd_PortType ports[] = { GPIOA, GPIOA, GPIOA, GPIOA };
 
 
 ## Output screen shots of proteus  :
- <img width="1317" height="952" alt="Screenshot 2026-02-14 101159" src="https://github.com/user-attachments/assets/0ab2ffec-a011-4895-b6eb-e400f68695b8" />
+ ![WhatsApp Image 2026-03-25 at 10 46 05 PM](https://github.com/user-attachments/assets/8ec1a5fa-047c-44dd-ab08-871746627df1)
+
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
